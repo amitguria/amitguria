@@ -1,4 +1,3 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://amitguria.io)
 <h1 align="center">Hi 👋, I'm Amit Guria</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pjsgames.com/cdn/shop/collections/collection__digital-pc-gaming.jpg?v=1694115640">
