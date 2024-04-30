@@ -6,6 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7AA&center=true&vCenter=true&repeat=false&random=false&width=320&height=40&lines=Web+Developer;Eternal+Learner;Tech+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
+
 <img align="right" alt="Coding" width="400" src="https://www.pjsgames.com/cdn/shop/collections/collection__digital-pc-gaming.jpg?v=1694115640">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitguria&label=Profile%20views&color=0e75b6&style=flat" alt="amitguria" /> </p>
