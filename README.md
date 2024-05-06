@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/amitguria">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110809249/326752221-7b7500b6-ee4a-4b89-97fd-f5363f227ec2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240430T095023Z&X-Amz-Expires=300&X-Amz-Signature=4a905031246a1badc51013a2794c81c627b181a2afc42d1f8d2c31d04b14b13b&X-Amz-SignedHeaders=host&actor_id=110809249&key_id=0&repo_id=793855532" alt="Amit Guria" /></a>
+    <img src="https://github.com/amitguria/amitguria/assets/110809249/30fc0aff-02bd-435b-a856-1f1dc48dda0f" alt="Amit Guria" /></a>
 </p>
 
 <p align="center">
